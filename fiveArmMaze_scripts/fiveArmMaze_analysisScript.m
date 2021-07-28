@@ -1,9 +1,9 @@
 clear; close all; clc; format compact;
 
-%% starmaze-Analysis: Starmaze WP6
+%% five-arm-maze-Analysis
 % @ date 200923 @ author Deetje Iggena
 % @ date 210527 last update
-% analysis-script for starmaze version 190819
+% analysis-script for maze version 190819
 % Matlab R2020b
 
 % The script requires .csv as input-files.
